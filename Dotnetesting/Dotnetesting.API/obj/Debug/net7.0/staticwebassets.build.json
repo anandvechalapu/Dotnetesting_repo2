@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IPlRdgXzeU5a925NtLS361UeLnls+j/glCT78nPB+h8=",
+  "Source": "Dotnetesting.API",
+  "BasePath": "_content/Dotnetesting.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

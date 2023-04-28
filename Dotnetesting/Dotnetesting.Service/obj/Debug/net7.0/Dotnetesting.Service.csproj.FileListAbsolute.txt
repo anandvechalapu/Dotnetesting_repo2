@@ -1,0 +1,17 @@
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\bin\Debug\net7.0\Dotnetesting.DataAccess.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\bin\Debug\net7.0\Dotnetesting.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\bin\Debug\net7.0\Dotnetesting.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\bin\Debug\net7.0\Dotnetesting.DataAccess.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\Dotnetesting.Service.csproj.AssemblyReference.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\Dotnetesting.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\Dotnetesting.Service.AssemblyInfoInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\Dotnetesting.Service.AssemblyInfo.cs
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\Dotnetesting.Service.csproj.CoreCompileInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\Dotnetesting.Service.csproj.CopyComplete
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\Dotnetesting.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\refint\Dotnetesting.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\Dotnetesting.Service.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\bin\Debug\net7.0\Dotnetesting.Service.deps.json
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\bin\Debug\net7.0\Dotnetesting.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\bin\Debug\net7.0\Dotnetesting.Service.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\ref\Dotnetesting.Service.dll

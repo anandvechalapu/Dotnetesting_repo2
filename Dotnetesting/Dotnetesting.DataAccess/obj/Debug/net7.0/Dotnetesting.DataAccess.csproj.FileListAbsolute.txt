@@ -1,0 +1,15 @@
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\bin\Debug\net7.0\Dotnetesting.DataAccess.deps.json
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\bin\Debug\net7.0\Dotnetesting.DataAccess.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\bin\Debug\net7.0\Dotnetesting.DataAccess.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\obj\Debug\net7.0\Dotnetesting.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\obj\Debug\net7.0\Dotnetesting.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\obj\Debug\net7.0\Dotnetesting.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\obj\Debug\net7.0\Dotnetesting.DataAccess.AssemblyInfo.cs
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\obj\Debug\net7.0\Dotnetesting.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\obj\Debug\net7.0\Dotnetesting.DataAccess.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\obj\Debug\net7.0\refint\Dotnetesting.DataAccess.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\obj\Debug\net7.0\Dotnetesting.DataAccess.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\obj\Debug\net7.0\ref\Dotnetesting.DataAccess.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\bin\Debug\net7.0\Dotnetesting.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\bin\Debug\net7.0\Dotnetesting.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.DataAccess\obj\Debug\net7.0\Dotnetesting.DataAccess.csproj.CopyComplete
