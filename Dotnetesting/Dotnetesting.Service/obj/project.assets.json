@@ -510,11 +510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304284752\\Dotnetesting\\Dotnetesting.Service\\Dotnetesting.Service.csproj",
+      "projectUniqueName": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304282916\\Dotnetesting\\Dotnetesting.Service\\Dotnetesting.Service.csproj",
       "projectName": "Dotnetesting.Service",
-      "projectPath": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304284752\\Dotnetesting\\Dotnetesting.Service\\Dotnetesting.Service.csproj",
+      "projectPath": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304282916\\Dotnetesting\\Dotnetesting.Service\\Dotnetesting.Service.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304284752\\Dotnetesting\\Dotnetesting.Service\\obj\\",
+      "outputPath": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304282916\\Dotnetesting\\Dotnetesting.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -531,11 +531,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304284752\\Dotnetesting\\Dotnetesting.DataAccess\\Dotnetesting.DataAccess.csproj": {
-              "projectPath": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304284752\\Dotnetesting\\Dotnetesting.DataAccess\\Dotnetesting.DataAccess.csproj"
+            "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304282916\\Dotnetesting\\Dotnetesting.DataAccess\\Dotnetesting.DataAccess.csproj": {
+              "projectPath": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304282916\\Dotnetesting\\Dotnetesting.DataAccess\\Dotnetesting.DataAccess.csproj"
             },
-            "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304284752\\Dotnetesting\\Dotnetesting.DTO\\Dotnetesting.DTO.csproj": {
-              "projectPath": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304284752\\Dotnetesting\\Dotnetesting.DTO\\Dotnetesting.DTO.csproj"
+            "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304282916\\Dotnetesting\\Dotnetesting.DTO\\Dotnetesting.DTO.csproj": {
+              "projectPath": "D:\\Projects\\Microsoft\\API\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\237\\202304282916\\Dotnetesting\\Dotnetesting.DTO\\Dotnetesting.DTO.csproj"
             }
           }
         }

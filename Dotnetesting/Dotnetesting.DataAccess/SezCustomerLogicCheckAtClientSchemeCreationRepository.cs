@@ -1,41 +1,47 @@
-﻿namespace Dotnetesting.Repository
+﻿using System.Threading.Tasks;
+using Dotnetesting.DTO;
+
+namespace Dotnetesting
 {
-    using System.Threading.Tasks;
-    using Dotnetesting.DTO;
-    using Dotnetesting.Models;
-
-    public class SezCustomerLogicCheckAtClientSchemeCreationRepository : ISezCustomerLogicCheckAtClientSchemeCreationRepository
+    public class SezCustomerLogicCheckAtClientSchemeCreationRepository : ISezCustomerLogicCheckAtClientSchemeCreationRepository 
     {
-        private readonly SezCustomerLogicCheckAtClientSchemeCreationContext _context;
+        private readonly SezCustomerLogicCheckAtClientSchemeCreationModel _model;
 
-        public SezCustomerLogicCheckAtClientSchemeCreationRepository(SezCustomerLogicCheckAtClientSchemeCreationContext context)
+        public SezCustomerLogicCheckAtClientSchemeCreationRepository(SezCustomerLogicCheckAtClientSchemeCreationModel model)
         {
-            _context = context;
+            _model = model;
         }
 
-        public async Task<SezCustomerLogicCheckAtClientSchemeCreationModel> GetByIdAsync(int id)
+        public async Task<SezCustomerLogicCheckAtClientSchemeCreationDTO> GetSezCustomerLogicCheckAtClientSchemeCreationByIdAsync(int id)
         {
-            return await _context.SezCustomerLogicCheckAtClientSchemeCreation.FindAsync(id);
+            var dto = new SezCustomerLogicCheckAtClientSchemeCreationDTO();
+            if (_model.Id == id)
+            {
+                dto.Id = _model.Id;
+                dto.ClientName = _model.ClientName;
+                dto.SchemeName = _model.SchemeName;
+                dto.Description = _model.Description;
+                dto.IsActive = _model.IsActive;
+            }
+            return await Task.FromResult(dto);
         }
 
-        public async Task<SezCustomerLogicCheckAtClientSchemeCreationModel> CreateAsync(SezCustomerLogicCheckAtClientSchemeCreationModel model)
+        public async Task<int> CreateSezCustomerLogicCheckAtClientSchemeCreationAsync()
         {
-            _context.SezCustomerLogicCheckAtClientSchemeCreation.Add(model);
-            await _context.SaveChangesAsync();
-            return model;
+            // Code to save the model to the database
+            return await Task.FromResult(_model.Id);
         }
 
-        public async Task<SezCustomerLogicCheckAtClientSchemeCreationModel> UpdateAsync(SezCustomerLogicCheckAtClientSchemeCreationModel model)
+        public async Task<bool> UpdateSezCustomerLogicCheckAtClientSchemeCreationAsync()
         {
-            _context.SezCustomerLogicCheckAtClientSchemeCreation.Update(model);
-            await _context.SaveChangesAsync();
-            return model;
+            // Code to update the model in the database
+            return await Task.FromResult(true);
         }
 
-        public async Task DeleteAsync(SezCustomerLogicCheckAtClientSchemeCreationModel model)
+        public async Task<bool> DeleteSezCustomerLogicCheckAtClientSchemeCreationAsync(int id)
         {
-            _context.SezCustomerLogicCheckAtClientSchemeCreation.Remove(model);
-            await _context.SaveChangesAsync();
+            // Code to delete the model from the database
+            return await Task.FromResult(true);
         }
     }
 }

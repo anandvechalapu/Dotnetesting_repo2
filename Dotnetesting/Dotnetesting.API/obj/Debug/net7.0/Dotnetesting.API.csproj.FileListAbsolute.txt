@@ -47,3 +47,6 @@ D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler
 D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.API\bin\Debug\net7.0\Dotnetesting.DataAccess.dll
 D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.API\bin\Debug\net7.0\Dotnetesting.DataAccess.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304282916\Dotnetesting\Dotnetesting.API\obj\Debug\net7.0\Dotnetesting.API.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304282916\Dotnetesting\Dotnetesting.API\obj\Debug\net7.0\refint\Dotnetesting.API.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304282916\Dotnetesting\Dotnetesting.API\obj\Debug\net7.0\Dotnetesting.API.pdb

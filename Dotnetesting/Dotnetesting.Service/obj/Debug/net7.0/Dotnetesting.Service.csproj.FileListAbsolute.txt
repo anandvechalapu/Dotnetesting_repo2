@@ -15,3 +15,6 @@ D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler
 D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\bin\Debug\net7.0\Dotnetesting.Service.dll
 D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\bin\Debug\net7.0\Dotnetesting.Service.pdb
 D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304284752\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\ref\Dotnetesting.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304282916\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\Dotnetesting.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304282916\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\refint\Dotnetesting.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\237\202304282916\Dotnetesting\Dotnetesting.Service\obj\Debug\net7.0\Dotnetesting.Service.pdb

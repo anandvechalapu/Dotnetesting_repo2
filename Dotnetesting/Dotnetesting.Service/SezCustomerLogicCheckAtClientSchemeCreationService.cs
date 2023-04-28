@@ -1,66 +1,39 @@
-﻿namespace Dotnetesting.Service
+﻿using System.Threading.Tasks;
+using Dotnetesting.DataAccess;
+using Dotnetesting.DTO;
+
+namespace Dotnetesting.Service
 {
-    using System.Threading.Tasks;
-    using Dotnetesting.DataAccess;
-    using Dotnetesting.DTO;
-    using Dotnetesting.Models;
-
-    public class SezCustomerLogicCheckAtClientSchemeCreationService : ISezCustomerLogicCheckAtClientSchemeCreationService 
+    public class SezCustomerLogicCheckAtClientSchemeCreationService : ISezCustomerLogicCheckAtClientSchemeCreationService
     {
-        private readonly SezCustomerLogicCheckAtClientSchemeCreationRepository _repository;
+        private readonly ISezCustomerLogicCheckAtClientSchemeCreationRepository _repository;
 
-        public SezCustomerLogicCheckAtClientSchemeCreationService(SezCustomerLogicCheckAtClientSchemeCreationRepository repository)
+        public SezCustomerLogicCheckAtClientSchemeCreationService(
+            ISezCustomerLogicCheckAtClientSchemeCreationRepository repository)
         {
             _repository = repository;
         }
 
-        public async Task<SezCustomerLogicCheckAtClientSchemeCreationDTO> GetByIdAsync(int id)
+        public async Task<SezCustomerLogicCheckAtClientSchemeCreationDTO> GetSezCustomerLogicCheckAtClientSchemeCreationByIdAsync(int id)
         {
-            var model = await _repository.GetByIdAsync(id);
-            return new SezCustomerLogicCheckAtClientSchemeCreationDTO
-            {
-                Id = model.Id,
-                // other properties
-            };
+            return await _repository.GetSezCustomerLogicCheckAtClientSchemeCreationByIdAsync(id);
         }
 
-        public async Task<SezCustomerLogicCheckAtClientSchemeCreationDTO> CreateAsync(SezCustomerLogicCheckAtClientSchemeCreationDTO dto)
+        public async Task<int> CreateSezCustomerLogicCheckAtClientSchemeCreationAsync(SezCustomerLogicCheckAtClientSchemeCreationDTO model)
         {
-            var model = new SezCustomerLogicCheckAtClientSchemeCreationModel
-            {
-                // other properties
-            };
-            model = await _repository.CreateAsync(model);
-            return new SezCustomerLogicCheckAtClientSchemeCreationDTO
-            {
-                Id = model.Id,
-                // other properties
-            };
+            var repositoryModel = new SezCustomerLogicCheckAtClientSchemeCreationModel(model);
+            return await _repository.CreateSezCustomerLogicCheckAtClientSchemeCreationAsync(repositoryModel);
         }
 
-        public async Task<SezCustomerLogicCheckAtClientSchemeCreationDTO> UpdateAsync(SezCustomerLogicCheckAtClientSchemeCreationDTO dto)
+        public async Task<bool> UpdateSezCustomerLogicCheckAtClientSchemeCreationAsync(SezCustomerLogicCheckAtClientSchemeCreationDTO model)
         {
-            var model = new SezCustomerLogicCheckAtClientSchemeCreationModel
-            {
-                Id = dto.Id,
-                // other properties
-            };
-            model = await _repository.UpdateAsync(model);
-            return new SezCustomerLogicCheckAtClientSchemeCreationDTO
-            {
-                Id = model.Id,
-                // other properties
-            };
+            var repositoryModel = new SezCustomerLogicCheckAtClientSchemeCreationModel(model);
+            return await _repository.UpdateSezCustomerLogicCheckAtClientSchemeCreationAsync(repositoryModel);
         }
 
-        public async Task DeleteAsync(SezCustomerLogicCheckAtClientSchemeCreationDTO dto)
+        public async Task<bool> DeleteSezCustomerLogicCheckAtClientSchemeCreationAsync(int id)
         {
-            var model = new SezCustomerLogicCheckAtClientSchemeCreationModel
-            {
-                Id = dto.Id,
-                // other properties
-            };
-            await _repository.DeleteAsync(model);
+            return await _repository.DeleteSezCustomerLogicCheckAtClientSchemeCreationAsync(id);
         }
     }
 }
